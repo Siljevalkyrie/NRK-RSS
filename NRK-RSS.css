@@ -1,0 +1,9 @@
+h1 {
+	color: red;
+}
+
+article {
+	height: 70px;
+	background-color: pink;
+	/*border: solid 2px blue;*/
+}
